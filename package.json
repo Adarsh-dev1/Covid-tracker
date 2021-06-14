@@ -2,7 +2,7 @@
   "name": "material_ui_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://adarsh-dev1.github.io/Covid-tracker",
+  "homepage": "https://Adarsh-dev1.github.io/Covid-tracker",
   "dependencies": {
     "@material-ui/core": "^4.11.4",
     "axios": "^0.21.1",
